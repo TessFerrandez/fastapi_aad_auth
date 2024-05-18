@@ -1,3 +1,4 @@
-fastapi[all]==0.68.0
+fastapi[all]==0.111.0
 python-jose[cryptography]==3.3.0
-uvicorn==0.13.4
+uvicorn==0.29
+requests==2.31.0
